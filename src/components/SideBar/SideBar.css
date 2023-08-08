@@ -1,0 +1,21 @@
+.panelImage {
+  min-width: 3rem;
+  height: 3rem;
+  margin-right: 2.5rem;
+  margin-top: 2rem;
+  clip-path: ellipse(50% 50%);
+}
+
+@media (max-width: 920px) {
+  .panelImage {
+    min-width: 3rem;
+    height: 3rem;
+    margin-right: 2.5rem;
+    margin-top: 2rem;
+    clip-path: ellipse(50% 50%);
+  }
+}
+#chakra-modal-mymodal {
+  height: 35rem;
+  max-width: 55rem;
+}
